@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5076719969:AAF-dO7u1Qqvhd5s3whqG39GgTLFx1Zy4A8"
+    APP_ID = "7712824"
+    API_HASH = "2d3673e18b462f8032c4eea2f50b9f52"
+    DATABASE_URL = "postgres://eqspnnolpjppqb:024044d694d82be4d41e470fa50f3b4af76fb6f18c7af78356159c5ea5242eec@ec2-52-73-8-82.compute-1.amazonaws.com:5432/df0copcsc59kv7"
+    SUDO_USERS = "1808315958" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://github.com/Vaxyy/GDriveUploader/"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "487360415248-hb03didkcu39letkfprn9ha3a25t35gh.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
