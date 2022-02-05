@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "1808315958" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://github.com/Vaxyy/GDriveUploader/"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "400607113417-6d3gfpg7ale2g218klh00b0g0n89v8ht.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "400607113417-cd7o54htbhtaojfma7b1f598q8u8gbti.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
