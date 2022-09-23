@@ -1,5 +1,4 @@
 wget
-python3
 asyncio
 pyrogram==1.0.1
 tgcrypto
@@ -12,5 +11,4 @@ google-auth-httplib2
 google-auth-oauthlib
 youtube_dl
 ffmpeg
-git
 tenacity
